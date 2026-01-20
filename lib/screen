@@ -1,0 +1,16 @@
+lib/screens/splash_screen.dart
+Splash screen code
+lib/screens/onboarding_screen.dart
+Onboarding code
+lib/screens/home_feed_screen.dart
+Home feed code
+lib/screens/post_screen.dart
+Post screen code
+lib/screens/motivational_feed_screen.dart
+Motivational feed code
+lib/screens/profile_screen.dart
+Profile screen code
+lib/screens/emergency_screen.dart
+SOS screen code
+lib/screens/settings_screen.dart
+Settings screen code
