@@ -1,0 +1,6 @@
+lib/widgets/post_card.dart
+PostCard widget
+lib/widgets/motivational_card.dart
+MotivationalCard widget
+lib/widgets/bottom_tab_bar.dart
+Bottom navigation
